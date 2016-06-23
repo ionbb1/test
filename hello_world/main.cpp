@@ -4,7 +4,7 @@ int main(void)
 {
 	printf("Hello World\n");
 
-	printf("This is NxA Repository\n");
+	printf("This is NxK Repository\n");
 
 	return 0;
 }
